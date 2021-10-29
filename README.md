@@ -1,2 +1,2 @@
 # 2-1-multiplexer
-Mux is implemented using bufif1 and bufif0
+Mux is implemented using buffer gates bufif1, bufif0 and the output depends on control signal
